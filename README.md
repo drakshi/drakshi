@@ -1,8 +1,8 @@
-<h1><img height="50px" width="50px"src="Gifs/Hi.gif"><b>Hey👋</b> </h1>
+<h1><b>Hey there👋</b> </h1>
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D365F7&width=435&lines=I+am+Drakshi+Chopra" />
 
-<h3><img align="center" height="50px" width="55px" src="Gifs/gif3.gif"/>I am here to Learn & Contribute</h3> <br>
+<h3>I am here to Learn & Contribute</h3> <br>
 
 
 <br>👨‍💻 Wanna see my **Portfolio?** https://drakshichopra-fc5a9.web.app/<br>💬 Ask me about **Data Structure and Algorithms, HTML, CSS, JavaScript, ReactJs**<br>📫 How to reach me? drakshichopra@gmail.com<br>📄 Know about my **experiences** <a  href="https://drive.google.com/file/d/1Irx53gOOBlIQmedN_xthG3hRt912qEDd/view?usp=sharing">Resume</a>
